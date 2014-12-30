@@ -1,0 +1,301 @@
+-------------------------------------
+CB Favors
+-------------------------------------
+
+&favor.Aquatic ###=2.3
+&tags.favor.Aquatic ###=feral
+
+&favor.Bioluminescence ###=1
+&tags.favor.Bioluminescence ###=feral
+
+&favor.Darksight ###=1
+&tags.favor.Darksight ###=feral
+
+&favor.Echolocation ###=2.3
+&tags.favor.Echolocation ###=feral
+
+&favor.Extra_Limbs ###=1.2.3.4.5
+&tags.favor.Extra_Limbs ###=feral
+
+&favor.Fang_and_Claw ###=1.2.3.4.5
+&tags.favor.Fang_and_Claw ###=feral
+
+&favor.Limbless ###=-1
+&tags.favor.Limbless ###=feral
+
+&favor.Many‐Legged ###=4
+&tags.favor.Many‐Legged ###=feral
+
+&favor.Musk ###=3
+&tags.favor.Musk ###=feral
+
+&favor.Natural_Armor ###=1.2.3.4.5
+&tags.favor.Natural_Armor ###=feral
+
+&favor.Needleteeth ###=3
+&tags.favor.Needleteeth ###=feral
+
+&favor.Quills ###=1.2.3.4.5
+&tags.favor.Quills ###=feral
+
+&favor.Razorskin ###=3.4
+&tags.favor.Razorskin ###=feral
+
+&favor.Size ###=4
+&tags.favor.Size ###=feral
+
+&favor.Speed ###=1.2.3.4.5
+&tags.favor.Speed ###=feral
+
+&favor.Water_Breath ###=1
+&tags.favor.Water_Breath ###=feral
+
+&favor.Webbing ###=4
+&tags.favor.Webbing ###=feral
+
+&favor.Wings ###=4
+&tags.favor.Wings ###=feral
+
+-------------------------------------
+CB Aspects
+-------------------------------------
+
+&aspect.Alarming_Alacrity ###=1.2.3.4.5
+&tags.aspect.Alarming_Alacrity ###=feral
+
+&aspect.Asthmatic_Reaction ###=3
+&tags.aspect.Asthmatic_Reaction ###=feral
+
+&aspect.aww ###=1.2.3.4.5
+&tags.aspect.Aww ###=feral
+
+&aspect.Bare_Necessities ###=1.3
+&tags.aspect.Bare_Necessities ###=feral
+
+&aspect.Beast_Magic ###=1.2.3
+&tags.aspect.Beast_Magic ###=feral
+
+&aspect.Beast_Surge ###=3
+&tags.aspect.Beast_Surge ###=feral
+
+&aspect.Birth_Blessing ###=1
+&tags.aspect.Birth_Blessing ###=feral
+
+&aspect.Blank_Burrow ###=4
+&tags.aspect.Blank_Burrow ###=feral
+
+&aspect.Blend_In ###=1
+&tags.aspect.Blend_In ###=feral
+
+&aspect.Brave_Escape ###=3
+&tags.aspect.Brave_Escape ###=feral
+
+&aspect.Burrowing ###=2.3
+&tags.aspect.Burrowing ###=feral
+
+&aspect.Carnivore’s_Puissance ###=2
+&tags.aspect.Carnivore’s_Puissance ###=feral
+
+&aspect.Catwalk ###=1.2.3.4.5
+&tags.aspect.Catwalk ###=feral
+
+&aspect.Clamber ###=1.2.3.4.5
+&tags.aspect.Clamber ###=feral
+
+&aspect.Clever_Monkey ###=1.2.3.4.5
+&tags.aspect.Clever_Monkey ###=feral
+
+&aspect.Culling_the_Weak ###=2
+&tags.aspect.Culling_the_Weak ###=feral
+
+&aspect.Durga’s_Blessing ###=2.3
+&tags.aspect.Durga’s_Blessing ###=feral
+
+&aspect.Earthbond ###=2
+&tags.aspect.Earthbond ###=feral
+
+&aspect.Exoskeleton ###=2
+&tags.aspect.Exoskeleton ###=feral
+
+&aspect.Extraordinary_Specimen ###=1
+&tags.aspect.Extraordinary_Specimen ###=feral
+
+&aspect.Foretelling ###=2
+&tags.aspect.Foretelling ###=feral
+
+&aspect.Fortune’s_Favor ###=2.3
+&tags.aspect.Fortune’s_Favor ###=feral
+
+&aspect.Grave_Misfortune ###=2
+&tags.aspect.Grave_Misfortune ###=feral
+
+&aspect.Gross_Eater ###=1.2
+&tags.aspect.Gross_Eater ###=feral
+
+&aspect.Hare_Heart ###=-1
+&tags.aspect.Hare_Heart ###=feral
+
+&aspect.Hound’s_Honor ###=1.2.3.4.5
+&tags.aspect.Hound’s_Honor ###=feral
+
+&aspect.Hybrid_Forms ###=5
+&tags.aspect.Hybrid_Forms ###=feral
+
+&aspect.Hypnotic_Allure ###=3
+&tags.aspect.Hypnotic_Allure ###=feral
+
+&aspect.Invisible_Marking ###=1
+&tags.aspect.Invisible_Marking ###=feral
+
+&aspect.Keen_Sense ###=1.2
+&tags.aspect.Keen_Sense ###=feral
+
+&aspect.Leap ###=1.2.3
+&tags.aspect.Leap ###=feral
+
+&aspect.Long_Life ###=1.2
+&tags.aspect.Long_Life ###=feral
+
+&aspect.Magnificence ###=2
+&tags.aspect.Magnificence ###=feral
+
+&aspect.Mercy’s_Touch ###=3
+&tags.aspect.Mercy’s_Touch ###=feral
+
+&aspect.Mimic ###=1.3
+&tags.aspect.Mimic ###=feral
+
+&aspect.Mindmap ###=3
+&tags.aspect.Mindmap ###=feral
+
+&aspect.Mindspeech ###=2
+&tags.aspect.Mindspeech ###=feral
+
+&aspect.Mother’s_Fury ###=1.2.3.4.5
+&tags.aspect.Mother’s_Fury ###=feral
+
+&aspect.Nine_Lives ###=5
+&tags.aspect.Nine_Lives ###=feral
+
+&aspect.Pack_Bond ###=3
+&tags.aspect.Pack_Bond ###=feral
+
+&aspect.Partial_Change ###=2
+&tags.aspect.Partial_Change ###=feral
+
+&aspect.Pearl_of_Great_Price ###=2
+&tags.aspect.Pearl_of_Great_Price ###=feral
+
+&aspect.Piggyback_Passenger ###=3
+&tags.aspect.Piggyback_Passenger ###=feral
+
+&aspect.Resilient_Form ###=1.2.3.4.5
+&tags.aspect.Resilient_Form ###=feral
+
+&aspect.Righting_Reflex ###=1.2.3
+&tags.aspect.Righting_Reflex ###=feral
+
+&aspect.Sense_of_Familiarity ###=2
+&tags.aspect.Sense_of_Familiarity ###=feral
+
+&aspect.Sexual_Dimorphism ###=2
+&tags.aspect.Sexual_Dimorphism ###=feral
+
+&aspect.Shadow_Bond ###=3
+&tags.aspect.Shadow_Bond ###=feral
+
+&aspect.Skin_Double ###=4
+&tags.aspect.Skin_Double ###=feral
+
+&aspect.Slumber’s_Touch ###=3
+&tags.aspect.Slumber’s_Touch ###=feral
+
+&aspect.Snatch_and_Carry ###=2
+&tags.aspect.Snatch_and_Carry ###=feral
+
+&aspect.Spinebite ###=5
+&tags.aspect.Spinebite ###=feral
+
+&aspect.Spirit_Animal ###=1.2.3.4.5
+&tags.aspect.Spirit_Animal ###=feral
+
+&aspect.Spirit_Gift ###=1.2.3.4.5
+&tags.aspect.Spirit_Gift ###=feral
+
+&aspect.Spirit_Secrets ###=3
+&tags.aspect.Spirit_Secrets ###=feral
+
+&aspect.Spirit_Sight ###=2
+&tags.aspect.Spirit_Sight ###=feral
+
+&aspect.Spook_the_Herd ###=3
+&tags.aspect.Spook_the_Herd ###=feral
+
+&aspect.Stampede_Rush ###=2.3
+&tags.aspect.Stampede_Rush ###=feral
+
+&aspect.Stash ###=1.2.3.4.5
+&tags.aspect.Stash ###=feral
+
+&aspect.Swarm/Flock_Form ###=4
+&tags.aspect.Swarm/Flock_Form ###=feral
+
+&aspect.Sweet‐Voiced_Fiend ###=1
+&tags.aspect.Sweet‐Voiced_Fiend ###=feral
+
+&aspect.Swift_Wing ###=3
+&tags.aspect.Swift_Wing ###=feral
+
+&aspect.Tar_Baby ###=3
+&tags.aspect.Tar_Baby ###=feral
+
+&aspect.Tell ###=-1
+&tags.aspect.Tell ###=feral
+
+&aspect.Territory_Bond ###=3.4.5
+&tags.aspect.Territory_Bond ###=feral
+
+&aspect.Tiger_Heart ###=1
+&tags.aspect.Tiger_Heart ###=feral
+
+&aspect.Toss_the_Scent ###=1
+&tags.aspect.Toss_the_Scent ###=feral
+
+&aspect.Totem_Guardian ###=2.3.4.5
+&tags.aspect.Totem_Guardian ###=feral
+
+&aspect.Truth_Sense ###=1.2.3.4.5
+&tags.aspect.Truth_Sense ###=feral
+
+&aspect.Twisted_Tongue ###=1
+&tags.aspect.Twisted Tongue ###=feral
+
+&aspect.Unnerving_Cry ###=2
+&tags.aspect.Unnerving_Cry ###=feral
+
+&aspect.Unsettling_Eye ###=1
+&tags.aspect.Unsettling_Eye ###=feral
+
+&aspect.Unspeakable ###=3.5
+&tags.aspect.Unspeakable ###=feral
+
+&aspect.Venomous ###=3.4
+&tags.aspect.Venomous ###=feral
+
+&aspect.Wallwalking ###=2
+&tags.aspect.Wallwalking ###=feral
+
+&aspect.War_Heart ###=5
+&tags.aspect.War_Heart ###=feral
+
+&aspect.Warrior’s_Restoration ###=2
+&tags.aspect.Warrior’s_Restoration ###=feral
+
+&aspect.Weatherskin ###=1
+&tags.aspect.Weatherskin ###=feral
+
+&aspect.Weaver’s_Wisdom ###=1.2.3.4.5
+&tags.aspect.Weaver’s_Wisdom ###=feral
+
+&aspect.The_Wild_Cry ###=1.2.3.4.5
+&tags.aspect.The_Wild_Cry ###=feral
